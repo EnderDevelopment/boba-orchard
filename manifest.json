@@ -1,0 +1,9 @@
+{
+  "format_version": 2,
+  "header": {"name":"Tea & Boba","description":"Fruit tea, juice, boba and drink-making machines.","uuid":"a9b89d60-56a7-49ee-9b03-56bf8dc9b473","version":[1,0,0],"min_engine_version":[1,21,0] },
+  "modules": [
+    {"type":"data","uuid":"a9b89d60-56a7-49ee-9b03-56bf8dc9b474","version":[1,0,0]},
+    {"type":"script","language":"javascript","uuid":"a9b89d60-56a7-49ee-9b03-56bf8dc9b475","version":[1,0,0],"entry":"scripts/main.js"}
+  ],
+  "dependencies":[{"module_name":"@minecraft/server","version":"2.0.0"}]
+}

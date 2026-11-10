@@ -1,0 +1,7 @@
+{
+  "resource_pack_name": "Tea & Boba Resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "fruit_apple": {"textures": "textures/items/fruit_apple"}
+  }
+}

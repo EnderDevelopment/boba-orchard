@@ -1,0 +1,5 @@
+{
+  "format_version": 2,
+  "header": {"name":"Tea & Boba Resources","description":"Resources for Tea & Boba.","uuid":"b9b89d60-56a7-49ee-9b03-56bf8dc9b473","version":[1,0,0],"min_engine_version":[1,21,0] },
+  "modules": [{"type":"resources","uuid":"b9b89d60-56a7-49ee-9b03-56bf8dc9b474","version":[1,0,0]}]
+}
